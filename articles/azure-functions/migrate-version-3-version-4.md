@@ -20,7 +20,7 @@ Azure Functions version 4.x is highly backwards compatible to version 3.x. Most 
 >
 >We highly recommend you migrating your function apps to version 4.x of the Functions runtime by following this article.
 >    
->Functions version 1.x is still supported for C# function apps that require the .NET Framework. Preview support is now available in Functions 4.x to [run C# functions on .NET Framework 4.8](dotnet-isolated-process-guide.md#supported-versions). 
+>Functions version 1.x is still supported for C# function apps that require the .NET Framework. Support is now available in Functions 4.x to [run C# functions on .NET Framework 4.8](dotnet-isolated-process-guide.md#supported-versions). 
 
 
 This article walks you through the process of safely migrating your function app to run on version 4.x of the Functions runtime. Because project upgrade instructions are language dependent, make sure to choose your development language from the selector at the [top of the article](#top).
